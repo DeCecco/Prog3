@@ -1,0 +1,18 @@
+.mheader {
+	text-align: justify;
+	color: #CCC;
+	font-size: 32px;
+}
+.topheader {
+	text-align: center;
+	color: #FFF;
+}
+.footer {
+	text-align: left;
+}
+.design {
+	text-align: center;
+}
+.socialred {
+	text-align: right;
+}
