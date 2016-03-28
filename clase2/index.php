@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<a>Pablo</a>
+<a>Pablo</a> 
 <?php
 
 //require 'alumno.php'; //
